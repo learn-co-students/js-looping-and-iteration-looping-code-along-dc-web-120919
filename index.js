@@ -21,5 +21,5 @@ function countDown(startingNumber){
         console.log(i);
         i --;
     }
-    console.log(i);
+    console.log(i); //must include this to display 0, otherwise stops at 1
 }
