@@ -1,6 +1,3 @@
 // Code your solutions in this file
-let writeCards = ['Skyler', 'Brook', 'Mike', "Kathy"];
+writeCards(["Ada", "Brendan", "Ali", "birthday"]);
 
-for (i = 0; i < 4; i++) {
-    console.log(`Thank you ${writeCards[i]}`);
-}
